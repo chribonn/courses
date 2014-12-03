@@ -40,8 +40,8 @@ Compiling and tools
 - Mathjax JS library is loaded by default so that `$x^2$` yields $x^2$
 - Slide navigation button on the preview; clicking on the notepad icon takes you to that slide in the deck
 - Clicking on `more` yields options for
-    - Clearning the knitr cache
-    - Viewing in a browser (creates a temporay html file in `AppData/local/temp` for me)
+    - Clearing the knitr cache
+    - Viewing in a browser (creates a temporary html file in `AppData/local/temp` for me)
     - Create a html file to save where you want)
 - A refresh button 
 - A zoom button that brings up a full window
@@ -60,7 +60,7 @@ Here's the option "linear"
 transition: linear
 
 - Just put `transition: linear` right after the slide creation (three equal signs or more in a row)
-- Tansition options 
+- Transition options 
     - http://www.rstudio.com/ide/docs/presentations/slide_transitions_and_navigation
 
 Hierarchical organization
