@@ -383,7 +383,7 @@ plot(p)
 
 - <b>Classes</b> define new data types
 
-- <b>Methods</b> extend <b>generic functions</b> to specificy the behavior
+- <b>Methods</b> extend <b>generic functions</b> to specify the behavior
     of generic functions on new classes
 
 - As new data types and concepts are created, classes/methods provide
